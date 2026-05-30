@@ -1,0 +1,12 @@
+# Streamlit credentials and local configs
+.streamlit/
+*.secrets.toml
+
+# Python virtual environments and caches
+__pycache__/
+*.pyc
+.DS_Store
+
+# Cloud storage metadata (OneDrive/CloudStorage leaks)
+.DS_Store
+*.tmp
